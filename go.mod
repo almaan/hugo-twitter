@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-widget-starter
+module github.com/almaan/hugo-twitter
 
 go 1.15
